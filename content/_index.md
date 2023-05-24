@@ -6,7 +6,6 @@ type: landing
 
 sections:
   - block: hero
-    content:
   - block: about.biography
     id: about
     content:
