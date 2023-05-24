@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: YunyingWebsite # Website name
+title: Yunying's World # Website name
 baseURL: 'https://liangyy113.github.io/' # Website URL
 
 ############################
