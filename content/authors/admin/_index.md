@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Yunying Liang is a Ph.D candidate of the School of Education at the University of Canterbury. Her research interests include gender and migration, international student mobility, global /transnational mobility, educationak mobility, higher education, migration policy, digital technology in migration, social (im)mobility.
+Yunying Liang is a Ph.D candidate of the School of Education at the University of Canterbury. Her research interests include gender and migration, international student mobility, global/transnational mobility, educational mobility, higher education, migration policy, digital technology in migration, social (im)mobility.
 {style="text-align: justify;"}
