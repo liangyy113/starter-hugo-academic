@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - TVB drama
+  - Travel
+  - Excercise
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
     - course: MSc. in Education
       institution: the University of Edinburgh, the United Kingdom
       year: 2016
-    - course: BSc. in English (Business and Medical Englsih)
+    - course: BSc. in English (Business and Medical English)
       institution: the Southern Medical University, China
       year: 2015
 
