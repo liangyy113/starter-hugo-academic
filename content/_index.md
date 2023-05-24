@@ -215,10 +215,10 @@ sections:
       email: yunyingliang113@163.com
       appointment_url: 'https://calendly.com'
       address:
-        street: 20 Kirkwood Avenue,Upper Riccarton
+        street: 20 Kirkwood Avenue, Upper Riccarton
         city: Christchurch
         region: South Island
-        postcode: '8041'
+        postcode:  '8041'
         country: New Zealand
         country_code: NZ
       contact_links:
