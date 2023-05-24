@@ -8,7 +8,7 @@ last_name: Liang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ❤️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
     url: https://www.canterbury.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include migration and mobility; educational mobility; international education; gender and feminism.
 
 # Interests to show in About widget
 interests:
@@ -53,12 +53,12 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/yunying113
     label: Follow me on Twitter
     display:
       header: true
-  - icon: fa-school-circle-check # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fab
+  - icon: fa-light fa-school # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: far
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
