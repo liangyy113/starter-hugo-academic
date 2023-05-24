@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Yunying Liang's Webpage
   - block: about.biography
     id: about
     content:
