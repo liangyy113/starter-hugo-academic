@@ -8,13 +8,6 @@ sections:
   - block: hero
     content:
       title: Yunying Liang's Webpage
-      text: |-
-      Hello :)
-    design:
-      background:
-        gradient_end: '#d21919'
-        gradient_start: '#004ba0'
-        text_color_light: true
   - block: about.biography
     id: about
     content:
