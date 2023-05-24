@@ -58,7 +58,7 @@ social:
     display:
       header: true
   - icon: fa-light fa-school # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: far
+    icon_pack: fab
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
