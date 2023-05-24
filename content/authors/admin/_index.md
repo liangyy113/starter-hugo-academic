@@ -57,7 +57,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: fa-light fa-school # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: fa-school-circle-check # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
