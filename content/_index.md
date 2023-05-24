@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-05-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Yunying Liang's webpage
+      title: Yunying Liang's Webpage
       image:
         filename: hero-academic.png
       cta:
