@@ -58,11 +58,11 @@ social:
     display:
       header: true
   - icon: fa-light fa-school # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fab
+    icon_pack: far
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/liangyy113
+    link: https://github.com/liangyy113/liangyy113.github.io
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
