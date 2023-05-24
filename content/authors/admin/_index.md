@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yunying Liang is a Ph.D candidate of the School of Education at the University of Canterbury. Her research interests include gender and migration, international student mobility, global /transnational mobility, educationak mobility, higher education, migration policy, digital technology in migration, social (im)mobility.
 {style="text-align: justify;"}
